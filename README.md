@@ -3,7 +3,7 @@ Python example for the EE895 sensor
 
 ![EE895 sensor module](https://cdn.shopify.com/s/files/1/1560/1473/products/EE895-3-in-1-Sensor-Module_300dpi_RGB_500x.jpg?v=1615538360)<br>
 
-The EE895 sensor module precisely measures CO2, temperature and pressure.
+The EE895 sensor module measures CO2, temperature and pressure in a precise way.
 The measurement ranges are:
   - CO2: 0 ppm - 5000 ppm
   - temperature: -40°C - 60°C

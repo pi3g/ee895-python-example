@@ -11,7 +11,7 @@ def main():
     Main program function
     '''
     i2cbus = SMBus(1)
-    # delay recommended accoring to this stackoverflow post
+    # delay recommended according to this stackoverflow post
     # https://stackoverflow.com/questions/52735862/getting-ioerror-errno-121-remote-i-o-error-with-smbus-on-python-raspberry-w
     time.sleep(1)
     while True:

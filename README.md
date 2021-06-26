@@ -14,9 +14,10 @@ Run the example *hello-ee895-co2.py* to test your EE895 sensor.<br>
 At pi3g we sell our own [EE895 Breakout Board](https://buyzero.de/products/raspberry-pi-co2-sensor-breakout-board).<br>
 ![EE895 Breakout Board](https://cdn.shopify.com/s/files/1/1560/1473/products/P6015323_500x.jpg?v=1623160840)<br>
 It is designed to facilitate connecting to the EE895 via I2C.<br>
-The custom header can be put directly onto the Raspberry Pi (1B - 4B, Zero), zero wiring required.
+The custom header can be put directly onto the Raspberry Pi (1B - 4B, Zero), zero wiring required.<br>
 
 ![pi3g logo](https://pi3g.com/wp-content/uploads/2015/06/pi3g-150px-only-transparent-e1622110450400.png)<br>
 pi3g is an official approved Raspberry Pi reseller, and a Coral Machine Learning Platform (from Google) distribution partner.<br>
 We take care of all your Raspberry Pi and Coral related hardware and software development, sourcing, accessory and consulting needs!<br>
-Check out [our homepage](https://pi3g.com/) and file your personal software or hardware request.
+Check out [our homepage](https://pi3g.com/) and file your personal software or hardware request.<br>
+Also visit [our shop](https://buyzero.de/).<br>
